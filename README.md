@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_360,q_100,w_1140/v1/gcs/platform-data-goog/chapter_banners/GDG%20RVU%20Web%20Banner%202560x500%20-%20Blue_CxDRkSR.png" width="600" alt="GDSC Banner">
 </p>
 
-# 🧠 Real - Time Sign Language Translator  
+# 🧠 Real-Time Sign Language Translator  
 ### GDG Solutions Challenge 2025 | Team Socrates  
 
 **Project Theme:** *Building an Inclusive World for Neurodiverse Individuals*  
