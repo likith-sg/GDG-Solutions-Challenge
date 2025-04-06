@@ -9,9 +9,9 @@
 **UN SDG Goal:** Goal 10 – Reduced Inequalities
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/United_Nations_Sustainable_Development_Goal_10_Reduced_Inequality.svg/1024px-United_Nations_Sustainable_Development_Goal_10_Reduced_Inequality.svg.png" width="100" alt="UN SDG 10">
+  <img src="https://sdgs.un.org/sites/default/files/2023-07/SDG_10_Reduced_Inequalities.png" width="100" alt="UN SDG 10">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/H/hack2skill-logo-B36B5B2611-seeklogo.com.png" width="100" alt="Hack2Skill Logo">
+  <img src="https://hack2skill.com/assets/images/brand/hack2skill-logo.png" width="100" alt="Hack2Skill Logo">
 </p>
 
 ---
