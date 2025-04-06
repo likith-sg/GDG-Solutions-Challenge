@@ -12,8 +12,8 @@ offset = 20
 imgSize = 300
 counter = 0
 
-# Set folder path for saving images
-folder = "C:\\Users\\LIKITH S G\\Desktop\\Sign Language Detection\\Data\\Hello"
+# Set folder path for saving images for each class manually
+folder = "Data\Hello"
 
 # Create folder if it doesn't exist
 if not os.path.exists(folder):
