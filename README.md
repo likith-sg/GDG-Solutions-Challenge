@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://developers.google.com/community/images/gdsc-social-share.png" width="600" alt="GDSC Banner">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Google_Developer_Student_Clubs_logo.svg/512px-Google_Developer_Student_Clubs_logo.svg.png" width="600" alt="GDSC Banner">
 </p>
 
 # 🧠 Sign Language Translator  
@@ -9,9 +9,9 @@
 **UN SDG Goal:** Goal 10 – Reduced Inequalities
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77751238/234017996-82a3aa42-4c0a-4b52-85f0-5bd290e6ecfc.png" width="100" alt="Solutions Challenge Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/United_Nations_Sustainable_Development_Goal_10_Reduced_Inequality.svg/1024px-United_Nations_Sustainable_Development_Goal_10_Reduced_Inequality.svg.png" width="100" alt="UN SDG 10">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/83424688/227767654-40bcdbea-dc4d-4714-9611-9b3b27c09a80.png" width="100" alt="Hack2Skill Logo">
+  <img src="https://seeklogo.com/images/H/hack2skill-logo-B36B5B2611-seeklogo.com.png" width="100" alt="Hack2Skill Logo">
 </p>
 
 ---
