@@ -5,7 +5,7 @@ import random
 
 # Input and output directory (Change for each class) 
 INPUT_FOLDER = "Data\Hello"           
-OUTPUT_FOLDER = "Data\Hell_Augmented"  
+OUTPUT_FOLDER = "Data\Hello_Augmented"  
 TARGET_SIZE = 1000  # Number of images per class
 
 # Create output folder if it doesn't exist
