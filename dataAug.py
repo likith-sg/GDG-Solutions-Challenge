@@ -3,9 +3,9 @@ import os
 import numpy as np
 import random
 
-# Input and output directory
-INPUT_FOLDER = "C:\\Users\\LIKITH S G\\Desktop\\Sign Language Detection\\Data\\Yes"
-OUTPUT_FOLDER = "C:\\Users\\LIKITH S G\\Desktop\\Sign Language Detection\\Data\\Yes_Augmented"
+# Input and output directory (Change for each class) 
+INPUT_FOLDER = "Data\Hello"           
+OUTPUT_FOLDER = "Data\Hell_Augmented"  
 TARGET_SIZE = 1000  # Number of images per class
 
 # Create output folder if it doesn't exist
