@@ -71,12 +71,12 @@ Our system uses a webcam to capture static hand gestures and translate them into
   <table>
     <tr>
       <td align="center">
-        <img src="assets/pcdemo.jpg" alt="PC Demo" width="400px"/><br/>
+        <img src="assets/pcdemo.jpg" alt="PC Demo" width="500px"/><br/>
         <em>🖥️ Desktop View</em>
       </td>
-      <td width="50px"></td> <!-- spacer column -->
+      <td width="60px"></td> <!-- spacer column -->
       <td align="center">
-        <img src="assets/mobiledemo.jpg" alt="Mobile Demo" height="400px"/><br/>
+        <img src="assets/mobiledemo.jpg" alt="Mobile Demo" height="500px"/><br/>
         <em>📱 Mobile View</em>
       </td>
     </tr>
