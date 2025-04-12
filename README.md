@@ -68,12 +68,19 @@ Our system uses a webcam to capture static hand gestures and translate them into
 ## 💻📱 MVP in Action – Desktop & Mobile Views
 
 <p align="center">
-  <img src="assets/pcdemo.jpg" alt="PC Demo" width="60%" style="border-radius: 8px; margin-right: 10px;" />
-  <img src="assets/mobiledemo.jpg" alt="Mobile Demo" width="25%" style="border-radius: 8px;" />
-</p>
-
-<p align="center">
-  <em>🖥️ Desktop View &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;📱 Mobile View</em>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/pcdemo.jpg" alt="PC Demo" width="400px"/><br/>
+        <em>🖥️ Desktop View</em>
+      </td>
+      <td width="50px"></td> <!-- spacer column -->
+      <td align="center">
+        <img src="assets/mobiledemo.jpg" alt="Mobile Demo" height="400px"/><br/>
+        <em>📱 Mobile View</em>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
