@@ -48,6 +48,23 @@ Our system uses a webcam to capture static hand gestures and translate them into
 
 ---
 
+## 📽️ Demo & MVP
+
+<p align="center">
+  <a href="https://youtu.be/k7kyxWCrnjw" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Demo-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://web-production-1b6b.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20MVP-%23125D98?style=for-the-badge&logo=railway&logoColor=white" alt="Live MVP on Railway">
+  </a>
+</p>
+
+- 🔗 **Project Demo:** [https://youtu.be/k7kyxWCrnjw](https://youtu.be/k7kyxWCrnjw)  
+- 🚀 **Live MVP:** [https://web-production-1b6b.up.railway.app/](https://web-production-1b6b.up.railway.app/)
+
+---
+
 ## 🧪 Methodology
 
 ### 1. Dataset Collection
