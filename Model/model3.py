@@ -98,7 +98,7 @@ history = model.fit(
 total_time = time.time() - start_time
 
 # Save Model
-MODEL_DIR = "C:\\Users\\LIKITH S G\\Desktop\\Sign Language Detection\\Model"
+MODEL_DIR = "Model"
 os.makedirs(MODEL_DIR, exist_ok=True)
 model.save(os.path.join(MODEL_DIR, "mobilenetv3_sign_language_model.keras"))
 
