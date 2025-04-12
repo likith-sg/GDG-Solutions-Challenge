@@ -17,8 +17,8 @@ else:
     device = "CPU"
     print("GPU not found, using CPU for training")
 
-# Define dataset path
-DATASET_PATH = "C:\\Users\\LIKITH S G\\Desktop\\Sign Language Detection\\Data"
+# Define dataset path 
+DATASET_PATH = "Data"
 SELECTED_CLASSES = [
     "Hello_Augmented", "Yes_Augmented", "No_Augmented", "ILoveYou_Augmented",
     "Okay_Augmented", "Please_Augmented", "ThankYou_Augmented"
