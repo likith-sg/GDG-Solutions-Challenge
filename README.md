@@ -187,7 +187,7 @@ python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU')
 - Real-time sign recognition  
 - Built-in data augmentation pipeline  
 - Easy to expand with new gesture classes  
-- 🖥Deployable on laptops, Raspberry Pi, or Jetson Nano  
+- Deployable on laptops, Raspberry Pi, or Jetson Nano  
 - Designed for inclusivity and accessibility  
 
 ---
