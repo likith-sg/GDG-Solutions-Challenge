@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_360,q_100,w_1140/v1/gcs/platform-data-goog/chapter_banners/GDG%20RVU%20Web%20Banner%202560x500%20-%20Blue_CxDRkSR.png" width="600" alt="GDSC Banner">
 </p>
 
-# 🧠 Real-Time Sign Language Translator  
+# Real-Time Sign Language Translator  
 ### GDG Solutions Challenge 2025 | Team Socrates  
 
 **Project Theme:** *Building an Inclusive World for Neurodiverse Individuals*  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌍 Overview
+## Overview
 
 This project was developed as part of the **Google Developer Student Clubs (GDSC) Solutions Challenge 2025**. Our team, **Socrates**, chose to address Goal 10: *Reduced Inequalities* of the **United Nations Sustainable Development Goals (UN SDGs)**.
 
@@ -24,7 +24,7 @@ We aimed to build an inclusive communication system for neurodiverse individuals
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 - **Likith S G**  
 - **Nithin S**  
@@ -33,7 +33,7 @@ We aimed to build an inclusive communication system for neurodiverse individuals
 
 ---
 
-## 💡 Problem Statement
+## Problem Statement
 
 ### Building an Inclusive World for Neurodiverse Individuals
 
@@ -42,13 +42,13 @@ This project addresses the need for real-time translation of sign language into 
 
 ---
 
-## 🤖 Project Description
+## Project Description
 
 Our system uses a webcam to capture static hand gestures and translate them into text using a trained deep learning model. It's lightweight, efficient, and suitable for deployment even in low-resource environments like edge devices or mobile platforms.
 
 ---
 
-## 📽️ Demo & MVP
+## Demo & MVP
 
 <p align="center">
   <a href="https://youtu.be/k7kyxWCrnjw" target="_blank">
@@ -60,12 +60,12 @@ Our system uses a webcam to capture static hand gestures and translate them into
   </a>
 </p>
 
-- 🔗 **Project Demo:** [https://youtu.be/k7kyxWCrnjw](https://youtu.be/k7kyxWCrnjw)  
-- 🚀 **Live MVP:** [https://web-production-1b6b.up.railway.app/](https://web-production-1b6b.up.railway.app/)
+- **Project Demo:** [https://youtu.be/k7kyxWCrnjw](https://youtu.be/k7kyxWCrnjw)  
+- **Live MVP:** [https://web-production-1b6b.up.railway.app/](https://web-production-1b6b.up.railway.app/)
 
 ---
 
-## 💻📱 MVP in Action – Desktop & Mobile Views
+## MVP in Action – Desktop & Mobile Views
 
 <p align="center">
   <table>
@@ -85,7 +85,7 @@ Our system uses a webcam to capture static hand gestures and translate them into
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
 ### 1. Dataset Collection
 - Images captured using OpenCV via webcam.
@@ -118,32 +118,32 @@ Our system uses a webcam to capture static hand gestures and translate them into
 
 ---
 
-## 📦 Implementation
+## Implementation
 
-### 📸 Create Custom Dataset
+## Create Custom Dataset
 ```bash
 python datacollection.py
 # Press 'S' to capture images.
 # Press 'Q' to quit.
 ```
 
-## 🧪 Data Augmentation
+## Data Augmentation
 ```bash
 python dataAug.py
 ```
 
-## 🏋️ Train the Model
+## Train the Model
 ```bash
 python model3.py
 ```
 
-## 🔮 Run Real-Time Inference
+## Run Real-Time Inference
 
 ```bash
 python test.py
 ```
 
-## 📊 Model Performance
+## Model Performance
 
 | Metric            | Value      |
 |-------------------|------------|
@@ -153,11 +153,11 @@ python test.py
 | Test Loss         | 1.2869     |
 | Training Time     | 2825.66s   |
 
-📁 **Logs stored at:** `logs/fit/20250303-121854`
+**Logs stored at:** `logs/fit/20250303-121854`
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 - Python 3.10  
 - TensorFlow 2.10  
@@ -168,7 +168,7 @@ python test.py
 
 ---
 
-## ⚡ GPU Acceleration (Optional but Recommended)
+## GPU Acceleration (Optional but Recommended)
 
 ### 1. Install:
 
@@ -181,24 +181,15 @@ python test.py
 python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
 ```
 
-## 🧩 Key Features
+## Key Features
 
-- 🔋 Lightweight, MobileNetV3-based classifier  
-- 🔮 Real-time sign recognition  
-- 🧠 Built-in data augmentation pipeline  
-- ➕ Easy to expand with new gesture classes  
-- 🖥️ Deployable on laptops, Raspberry Pi, or Jetson Nano  
-- 🌐 Designed for inclusivity and accessibility  
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-Feel free to fork, contribute, and improve!
+- Lightweight, MobileNetV3-based classifier  
+- Real-time sign recognition  
+- Built-in data augmentation pipeline  
+- Easy to expand with new gesture classes  
+- 🖥Deployable on laptops, Raspberry Pi, or Jetson Nano  
+- Designed for inclusivity and accessibility  
 
 ---
 
 <p align="center"><b>Empathy through Innovation | Inclusion through Code</b><br><i>– Team Socrates, GDSC Solutions Challenge 2025</i></p>
-
-
